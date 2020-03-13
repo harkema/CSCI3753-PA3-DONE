@@ -1,0 +1,24 @@
+Thread ID: 41789
+Number for requester thread = 1
+Number for resolver threads = 3
+Total run time: -186436
+Thread ID: 41826
+Number for requester thread = 3
+Number for resolver threads = 1
+Total run time: 115537
+Thread ID: 41883
+Number for requester thread = 3
+Number for resolver threads = 3
+Total run time: -82732
+Thread ID: 41922
+Number for requester thread = 5
+Number for resolver threads = 5
+Total run time: 357400
+Thread ID: 41999
+Number for requester thread = 5
+Number for resolver threads = 8
+Total run time: 220930
+Thread ID: 42048
+Number for requester thread = 1
+Number for resolver threads = 1
+Total run time: 203088
